@@ -24,4 +24,3 @@ with open(file, "r") as file_handle:
     
     
 print(s)
-        
